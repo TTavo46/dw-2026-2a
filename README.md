@@ -14,7 +14,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Gabriel Washington Freitas Ribeiro
 - Gilmar Alves de Oliveira Neto
 - Guilherme Saraiva Silva
-- Gustavo Henrique Silveira Rezende
+- Gustavo Henrique Silveira Rezende [@TTavo46](https://github.com/TTavo46)
 - Hiago Cândido de Oliveira
 - Humberto Eugênio Rocha de Souza
 - Izabela Lima Oliveira
